@@ -1,0 +1,2 @@
+to crack vigenere cipher brute force approach will be not feasible(or nearly)
+so, we use Kasiski algorithm to crack it
